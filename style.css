@@ -1,0 +1,110 @@
+body{font-family:'Poppins', sans-serif; ;
+ margin: 0px;padding: 0px;
+ 
+}
+
+.container{
+    display: flex;
+    width:50%; 
+    margin-left: 50px;
+   
+}
+.half-width{
+    width:50%
+}
+ .half-width img{
+     width:70%;
+    padding-bottom: 200px;
+padding-left: 200px;}
+h1{ 
+    font-size: 40px;
+}
+.misson{
+    color: orangered;
+}
+.border{
+    border-left: 4px solid rgb(233, 96, 96);
+    border-radius: 1px;
+    margin-right:10px
+}
+.explore{
+    text-decoration:none;
+   background-color:rgb(231, 67, 67);
+    padding:10px 30px;
+    border-radius: 5px;
+    text-decoration-color: seashell;
+    color: white;
+}
+.half-width p{
+    padding:10px 0px;
+}
+.in{
+    color: rgb(243, 187, 82);
+}
+.my-misson h1{text-align: center;}
+.frist-section{
+    display: flex;
+}
+.visson{
+    border:4px 4px 4px soid;
+    box-shadow: 10px 10px 7px rgb(240, 219, 219);
+width: 30%;margin-left: 4px;
+margin-right: 4px ;
+padding-left: 30px;
+border-radius: 5px;
+background-color: linear-gradient rgba(17, 232, 204, 0.62);
+}
+.picture{
+    width: 30%;
+}
+.second-section{ 
+    display:flex;
+   width:50%;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-position:left  ;margin-left: 20px;
+}
+.third-div{
+    width:60%; padding-top:50px;
+    margin-left:;
+}
+.third-div img{
+    width:70%;
+    padding-top:50px;
+
+
+
+}
+#nation{
+    padding-top: 50px;
+}
+#abul{
+    
+    background-image: url(images/shapes/shape-3.png);
+     background-repeat: no-repeat;
+     background-position: right;
+}
+.four-section{
+    height: 100vh;
+    background-image: url(image/background.png);
+ background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 20px;}
+
+.five-class{
+    max-width: 350px;
+    margin-top: 100px;
+ }
+
+ footer{
+     text-align: center;
+     background-color:rgb(164, 234, 236); 
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+}
+span{color:rgb(253, 193, 82)}
+
+
+    
+
