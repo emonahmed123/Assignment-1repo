@@ -52,7 +52,7 @@ width: 30%;margin-left: 4px;
 margin-right: 4px ;
 padding-left: 30px;
 border-radius: 5px;
-background-color: linear-gradient rgba(17, 232, 204, 0.62);
+
 }
 .picture{
     width: 30%;
@@ -104,6 +104,9 @@ margin-left: 20px;}
      
 }
 span{color:rgb(253, 193, 82)}
+#emon{background-color: orange;}
+#alif{background-color:olivedrab ;}
+#sumon{background-color: paleturquoise;}
 
 
     
